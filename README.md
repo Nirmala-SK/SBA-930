@@ -8,8 +8,8 @@ This project tests how well two large language models (LLMs), **Claude** and **C
 
 | File | Description |
 |---|---|
-| `SBA930_Report.docx` | Full project report (Per Scholas template) |
-| `SBA930_Results.xlsx` | Google Sheets workbook exported to Excel: prompt log, scores, forecast vs actual tables, and source data |
+| `Nirmala_SBA_930_Report.docx` | Full project report (Per Scholas template) |
+| `SBA930 Results.xlsx` | Google Sheets workbook exported to Excel: prompt log, scores, forecast vs actual tables, and source data |
 | `prompts.md` | The five prompts used with both LLMs |
 | `README.md` | This file |
 
